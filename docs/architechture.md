@@ -6,4 +6,4 @@ This Diagram shows a high level flow of the cool-todo v1 app.
 - Providers: `UserProvider`, `TodoProvider`
 - Components: Header, Sidebar, SocialPanel, AddTodo, TodoList, TodoItem, TodoFilters
 
-![Architecture Map](./architecture-map.png)
+![Architecture Map](./architechture-map.png)
